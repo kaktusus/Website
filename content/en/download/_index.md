@@ -1,8 +1,9 @@
 ---
+aliases:
+  - /downloads
 title: Launch into design!
-linkTitle: Download
 description: Get FreeCAD and start with freedom right away.
-aliases: ["/downloads"]
+linkTitle: Download
 icon: download
 icon_cms: download
 ---
